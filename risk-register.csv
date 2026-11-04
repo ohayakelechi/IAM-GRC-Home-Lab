@@ -1,0 +1,4 @@
+Risk ID,Risk Description,Likelihood,Impact,Risk Score,Risk Level,Mitigation Strategy,Status
+R001,Excessive admin privileges,4,5,20,High,Enforce least privilege and review admin access,Open
+R002,Unauthorized financial access,3,5,15,High,Remove unauthorized financial permissions,Open
+R003,Incomplete employee offboarding,3,4,12,Medium,Revoke access during employee offboarding,Open

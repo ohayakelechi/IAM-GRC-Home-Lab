@@ -1,0 +1,5 @@
+Control ID,Control Name ,Security Requirement,Related Finding,Compliance Status,Recommended Action
+AC-2,Account Management,Manage and review user accounts,Chris Taylor retained permissions,Gap Identified,Remove terminated user permissions
+AC-3,Access Enforcement,Enforce approved access permissions,David Wilson unauthorized access,Gap Identified,Enforce role-based access controls
+AC-6,Least Privilege,Restrict access to job requirements,Emily Davis excessive privileges,Gap Identified,Apply least privilege
+IA-2,Identification and Authentication,Identify and authenticate users,Authentication not assessed,Not Assessed,Review MFA and authentication settings

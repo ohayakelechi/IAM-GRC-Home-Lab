@@ -1,0 +1,11 @@
+Employee Name,Job Role,Assigned Resource,Current Access,Authorized Access,Audit Result
+James Carter,IT Administrator,IT Admin,Yes,Yes,Pass
+Sarah Lee,HR Manager,HR Files,Yes,Yes,Pass
+Michael Brown,Accountant,Financial Data,Yes,Yes,Pass
+David Wilson,Sales Representative,Financial Data,Yes,No,Fail
+Emily Davis,IT Support,IT Admin,Yes,Limited,Fail
+Robert King,Finance Manager,Financial Data,Yes,Yes,Pass
+Jessica Moore,HR Assistant,HR Files,Limited,Limited,Pass
+Daniel Harris,Sales Manager,Sales CRM,Yes,Yes,Pass
+Ashley White,Security Analyst,IT Admin,Limited,Limited,Pass
+Chris Taylor,Former Employee,Sales CRM,Yes,No,Fail
