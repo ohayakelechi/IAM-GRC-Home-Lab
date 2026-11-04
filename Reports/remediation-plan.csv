@@ -1,0 +1,4 @@
+Employee Name,Security Finding,Severity,Recommended Action,Status
+David Wilson,Unauthorized financial access,High,Remove financial data access,Open
+Emily Davis,Excessive admin privileges,High,Reduce IT access to Limited,Open
+Chris Taylor,Access retained after termination,High,Remove Sales CRM permissions,Open
