@@ -120,3 +120,31 @@ I gained experience identifying access control weaknesses, applying least-privil
 ---
 
 **Disclaimer:** Phase 1 uses fictional employee information and simulated access assignments. No production systems or real employee accounts were audited.
+
+## Phase 2 — Microsoft Entra ID
+
+### Overview
+Configured a simulated identity and access management environment for Apex Financial Services using Microsoft Entra ID.
+
+### Hands-On Activities
+- Created fictional employee accounts across IT, HR, Finance, Sales, and Security departments.
+- Created five security groups: SG-IT, SG-HR, SG-Finance, SG-Sales, and SG-Security.
+- Assigned employees to department-specific security groups.
+- Examined directory role assignments to evaluate least-privilege access.
+- Simulated employee offboarding by disabling Chris Taylor's account and removing his Finance group membership.
+- Captured screenshots documenting identity management and access-control activities.
+
+### Security Concepts Demonstrated
+- Identity and Access Management (IAM)
+- Role-Based Access Control (RBAC)
+- Principle of Least Privilege
+- User Provisioning and Deprovisioning
+- Employee Offboarding
+- Access Control Documentation
+
+### Tools Used
+- Microsoft Entra ID
+
+
+### Lab Scope
+All employee accounts and company information are fictional. Activities were performed in a simulated environment. Security group membership was configured, but application-level access enforcement was not tested.
